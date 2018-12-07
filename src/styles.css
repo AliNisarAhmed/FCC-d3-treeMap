@@ -1,0 +1,8 @@
+body {
+  font-family: sans-serif;
+}
+
+.label {
+  font-size: 10px;
+  overflow: hidden;
+}
